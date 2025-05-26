@@ -1,0 +1,6 @@
+{
+  "name": "Academic Fantasy League Hub",
+  "description": "A frontend interface for the Academic Fantasy League, allowing users to manage their profiles, teams, and engage with research-focused gamification features. Includes a Gemini-powered research assistant.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
